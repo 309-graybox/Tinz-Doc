@@ -1,0 +1,179 @@
+{
+  "main": {
+    "id": "474fb78c83d238b7",
+    "type": "split",
+    "children": [
+      {
+        "id": "31aae5d2e527b80a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "422aa005333cd032",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Схема контроллера.canvas",
+                "viewState": {
+                  "x": -5269.618722828978,
+                  "y": 657.7928171026716,
+                  "zoom": -0.8333333333333335
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Схема контроллера"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "95dc41294f197108",
+    "type": "split",
+    "children": [
+      {
+        "id": "81e1ac40d29ecf15",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8ed6dec67120c658",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "5022041a4e031f7f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "04a259bfe2acc7a6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7008c7159c809a84",
+    "type": "split",
+    "children": [
+      {
+        "id": "dd3e798723b60a95",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e7ebb6bd74b41058",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Схема контроллера.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки для Схема контроллера"
+            }
+          },
+          {
+            "id": "bdeb91e82ce7e53f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Схема контроллера.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки из Схема контроллера"
+            }
+          },
+          {
+            "id": "67898addee7ded6b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "b8c58312d17343f0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Схема контроллера.canvas",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Структура Схема контроллера"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false
+    }
+  },
+  "active": "422aa005333cd032",
+  "lastOpenFiles": [
+    "Схема контроллера.canvas",
+    "Добро пожаловать.md"
+  ]
+}
