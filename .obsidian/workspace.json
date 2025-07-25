@@ -15,9 +15,9 @@
               "state": {
                 "file": "Схема контроллера.canvas",
                 "viewState": {
-                  "x": -5269.618722828978,
-                  "y": 657.7928171026716,
-                  "zoom": -0.8333333333333335
+                  "x": -4347,
+                  "y": 660,
+                  "zoom": -1.4616269450171175
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -173,7 +173,23 @@
   },
   "active": "422aa005333cd032",
   "lastOpenFiles": [
+    "Misc/input_buttons/START.png",
+    "Misc/input_buttons/RT.png",
+    "Misc/input_buttons/right_R-stick.png",
     "Схема контроллера.canvas",
+    "Misc/input_buttons/y-button.png",
+    "Misc/input_buttons/x-button.png",
+    "Misc/input_buttons/up_R-stick.png",
+    "Misc/input_buttons/up_L-stick.png",
+    "Misc/input_buttons/up_d-pad.png",
+    "Misc/input_buttons/R-stick.png",
+    "Misc/input_buttons/right_L-stick.png",
+    "Misc/input_buttons/Input Template.psd",
+    "Misc/input_buttons",
+    "Misc/Новая папка",
+    "Misc/ps4B77.tmp",
+    "Misc/ps57D1.tmp",
+    "Без названия",
     "Добро пожаловать.md"
   ]
 }
