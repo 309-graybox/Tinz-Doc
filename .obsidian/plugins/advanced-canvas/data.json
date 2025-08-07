@@ -9,7 +9,7 @@
     400,
     400
   ],
-  "minNodeSize": 5,
+  "minNodeSize": 80,
   "maxNodeWidth": -1,
   "disableFontSizeRelativeToZoom": true,
   "canvasMetadataCompatibilityEnabled": true,
