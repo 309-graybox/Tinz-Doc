@@ -4,27 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "31aae5d2e527b80a",
+        "id": "53e260f713510b72",
         "type": "tabs",
         "children": [
           {
-            "id": "422aa005333cd032",
+            "id": "eb069c7020bf92e0",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Схема контроллера.canvas",
-                "viewState": {
-                  "x": -4745.360535486341,
-                  "y": 1063.8559056743716,
-                  "zoom": -1.3333333333333333
-                }
+                "file": "Дизайн документ/Жанр и синопсис/Жанр.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Схема контроллера"
+              "icon": "lucide-file",
+              "title": "Жанр"
+            }
+          },
+          {
+            "id": "323165f236d80f2f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Дизайн документ/Жанр и синопсис/Жанр.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Жанр"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -64,7 +76,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Поиск"
+              "title": "Search"
             }
           },
           {
@@ -97,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Схема контроллера.canvas",
+                "file": "Не самые крутые геймплейные решения BOTW.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Схема контроллера"
+              "title": "Backlinks for Не самые крутые геймплейные решения BOTW"
             }
           },
           {
@@ -132,11 +144,11 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true,
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-tags",
-              "title": "Теги"
+              "title": "Tags"
             }
           },
           {
@@ -145,24 +157,25 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Схема контроллера.canvas",
+                "file": "Дизайн документ/Жанр и синопсис/Жанр.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура Схема контроллера"
+              "title": "Outline of Жанр"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -171,25 +184,37 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "422aa005333cd032",
+  "active": "323165f236d80f2f",
   "lastOpenFiles": [
-    "Misc/input_buttons/START.png",
-    "Misc/input_buttons/RT.png",
-    "Misc/input_buttons/right_R-stick.png",
+    "Тезаурус/Semi-open world🌏.md",
+    "Дизайн документ/Жанр и синопсис/Жанр.md",
+    "Тезаурус/RPG-lite🏋.md",
+    "Тезаурус",
+    "Дизайн документ/Управление/Джостик.md",
+    "Дизайн документ/Управление/Клавиатура и мышь.md",
+    "Дизайн документ/Жанр и синопсис/Синопсис.md",
+    "Untitled 1.base",
+    "Untitled.base",
+    "Шаблон Диздока.md",
     "Схема контроллера.canvas",
-    "Misc/input_buttons/y-button.png",
-    "Misc/input_buttons/x-button.png",
-    "Misc/input_buttons/up_R-stick.png",
-    "Misc/input_buttons/up_L-stick.png",
-    "Misc/input_buttons/up_d-pad.png",
-    "Misc/input_buttons/R-stick.png",
-    "Misc/input_buttons/right_L-stick.png",
-    "Misc/input_buttons/Input Template.psd",
-    "Misc/input_buttons",
-    "Misc/Новая папка",
-    "Misc/ps4B77.tmp",
-    "Misc/ps57D1.tmp",
-    "Без названия",
+    "Дизайн документ/src/controls",
+    "Дизайн документ/Интерфейс",
+    "Дизайн документ/Прогрессия",
+    "Дизайн документ/Концепты",
+    "Дизайн документ/Параметры игры",
+    "Дизайн документ/Системы и механики",
+    "Дизайн документ/Стиль",
+    "Не самые крутые геймплейные решения BOTW.md",
+    "Дизайн документ/src/controls/input_buttons/START.png",
+    "Дизайн документ/src/controls/input_buttons/RT.png",
+    "Дизайн документ/src/controls/input_buttons/right_R-stick.png",
+    "Дизайн документ/src/controls/input_buttons/y-button.png",
+    "Дизайн документ/src/controls/input_buttons/x-button.png",
+    "Дизайн документ/src/controls/input_buttons/up_R-stick.png",
+    "Дизайн документ/src/controls/input_buttons/up_L-stick.png",
+    "Дизайн документ/src/controls/input_buttons/up_d-pad.png",
+    "Дизайн документ/src/controls/input_buttons/R-stick.png",
+    "Дизайн документ/src/controls/input_buttons/right_L-stick.png",
     "Добро пожаловать.md"
   ]
 }
