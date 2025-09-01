@@ -1,3 +1,7 @@
 {
-  "promptDelete": false
+  "promptDelete": false,
+  "propertiesInDocument": "visible",
+  "strictLineBreaks": false,
+  "readableLineLength": true,
+  "showLineNumber": false
 }
