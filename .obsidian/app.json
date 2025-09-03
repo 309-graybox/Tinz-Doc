@@ -3,5 +3,6 @@
   "propertiesInDocument": "visible",
   "strictLineBreaks": false,
   "readableLineLength": true,
-  "showLineNumber": false
+  "showLineNumber": false,
+  "alwaysUpdateLinks": true
 }
