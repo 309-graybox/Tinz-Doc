@@ -1,0 +1,6 @@
+---
+tags:
+  - input
+aliases:
+  - Движение
+---
