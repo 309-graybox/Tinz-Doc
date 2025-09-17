@@ -4,95 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "53e260f713510b72",
+        "id": "5689325479b96c8a",
         "type": "tabs",
         "children": [
           {
-            "id": "909cc4faf7d17422",
+            "id": "4652b86601866cfe",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Дизайн документ/Управление/inputs/Attack (input).md",
+                "file": "Дизайн документ/Управление/inputs/Gimmick Button (input).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Attack (input)"
-            }
-          },
-          {
-            "id": "7a9dcb85ef33bc54",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Дизайн документ/Управление/inputs/Camera controll (input).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Camera controll (input)"
-            }
-          },
-          {
-            "id": "f0c1dadcb0657509",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Дизайн документ/Управление/inputs/Camera controll (input).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Camera controll (input)"
-            }
-          },
-          {
-            "id": "3e8a405b5b43c270",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Дизайн документ/Управление/inputs/Change Tool Mode (input).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Change Tool Mode (input)"
-            }
-          },
-          {
-            "id": "8b9da69f284dd8bd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Дизайн документ/Управление/inputs/Target (input).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Target (input)"
-            }
-          },
-          {
-            "id": "1de7e7a51967ee6e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Дизайн документ/Управление/inputs/Attack (input).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Attack (input)"
+              "title": "Gimmick Button (input)"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -241,56 +170,20 @@
       "bases:Создать новую базу": false
     }
   },
-  "floating": {
-    "id": "f29af70e2e4baa0e",
-    "type": "floating",
-    "children": [
-      {
-        "id": "a463c5d57df7d94d",
-        "type": "window",
-        "children": [
-          {
-            "id": "65cde5f356ae2e37",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "b2c8a3125a91fc38",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Дизайн документ/Управление/Игровая раскладка.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Игровая раскладка"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 2583,
-        "y": 17,
-        "width": 1336,
-        "height": 970,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "8b9da69f284dd8bd",
+  "active": "4652b86601866cfe",
   "lastOpenFiles": [
+    "Дизайн документ/Управление/inputs/Attack (input).md",
+    "Дизайн документ/Управление/inputs/Interact (input).md",
+    "Дизайн документ/Управление/inputs/Gimmick Button (input).md",
+    "().md",
+    "Дизайн документ/Управление/inputs/Target (input).md",
     "Дизайн документ/Управление/inputs/Dodge (input).md",
     "Дизайн документ/Управление/inputs/Crouch (input).md",
     "Дизайн документ/Управление/inputs/Change Tool Mode (input).md",
     "Дизайн документ/Управление/inputs/Camera controll (input).md",
     "Дизайн документ/Управление/inputs/Camera Reset (input).md",
-    "Дизайн документ/Управление/inputs/Attack (input).md",
     "Магические инструменты.md",
     "Камера.md",
-    "Дизайн документ/Управление/inputs/Gimmick Button (input).md",
     "Дизайн документ/Управление/inputs/Toss (input).md",
     "Дизайн документ/Управление/inputs/Use Tool (input).md",
     "Дизайн документ/Управление/Игровая раскладка.md",
@@ -312,7 +205,6 @@
     "Дизайн документ/src/controls/input_buttons/RB(32).png",
     "Дизайн документ/src/controls/input_buttons/pushed_R-stick(32).png",
     "Дизайн документ/Управление/inputs/Tool shortcut mode (input).md",
-    "Дизайн документ/Управление/inputs/Target (input).md",
     "Дизайн документ/Управление/inputs/Switch Tool (input).md",
     "Дизайн документ/Управление/inputs/Sprint (input).md",
     "Дизайн документ/Управление/inputs/Move (Input).md",
@@ -320,10 +212,8 @@
     "Дизайн документ/Управление/inputs/Map (input).md",
     "Дизайн документ/Управление/inputs/Jump (Input).md",
     "Дизайн документ/Управление/inputs/Item shortcut mode (input).md",
-    "Дизайн документ/Управление/inputs/Interact (input).md",
     "Сару.md",
     "Схема контроллера.canvas",
-    "Таркус.md",
     "Дизайн документ/src/controls/input_buttons/ps4BD.tmp",
     "Дизайн документ/src/controls/input_buttons/psBC0A.tmp",
     "Дизайн документ/Управление/inputs",
