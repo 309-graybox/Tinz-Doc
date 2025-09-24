@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Толкать.md",
+                "file": "Дизайн документ/Жанр и синопсис/Синопсис.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Толкать"
+              "title": "Синопсис"
+            }
+          },
+          {
+            "id": "99a33b7032866d16",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Дизайн документ/Жанр и синопсис/Синопсис.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Синопсис"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -170,10 +185,13 @@
       "bases:Создать новую базу": false
     }
   },
-  "active": "4652b86601866cfe",
+  "active": "99a33b7032866d16",
   "lastOpenFiles": [
-    "Дизайн документ/Управление/inputs/Interact (input).md",
+    "Дизайн документ/Жанр и синопсис/Сценарный гайдлайн.canvas",
+    "Дизайн документ/Жанр и синопсис/Синопсис.md",
+    "Мир игры/Архипелаг Йиг.md",
     "Толкать.md",
+    "Дизайн документ/Управление/inputs/Interact (input).md",
     "Тянуть/Толкать.md",
     "Тянуть",
     "Положить в руку.md",
@@ -196,9 +214,6 @@
     "Дизайн документ/Управление/inputs/Camera controll (input).md",
     "Дизайн документ/Управление/inputs/Attack (input).md",
     "Оружие.md",
-    "().md",
-    "Дизайн документ/Управление/inputs/Target (input).md",
-    "Магические инструменты.md",
     "Дизайн документ/src/controls/input_buttons/down_L-stick(32).png",
     "Дизайн документ/src/controls/input_buttons/ps2A85.tmp",
     "Дизайн документ/src/controls/input_buttons/ps48A3.tmp",
