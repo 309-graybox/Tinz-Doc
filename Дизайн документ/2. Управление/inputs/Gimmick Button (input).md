@@ -19,7 +19,7 @@ Gimmick Button призван быть последним рубежом в эт
 
 Ниже приведен видео пример момента где мог бы пригодится Gimmick Button.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w6kXjiGNuPs?si=QRSIjJK_CXGZ1Wht&amp;clip=UgkxBbMneFtCrS9BtZmvWgOWOHl1uNHjmg-M&amp;clipt=EIzO4gMY27vkAw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w6kXjiGNuPs?si=QRSIjJK_CXGZ1Wht&amp;clip=UgkxBbMneFtCrS9BtZmvWgOWOHl1uNHjmg-M&amp;clipt=EIzO4gMY27vkAw" title="YouTube video player" frameborder="0" allow="autoplay; clipboard-write; web-share" loop = "1"></iframe>
 
 В нашем случае можно было бы нажать Gimmick Button и колесо бы просто покрутилось, и на тросе был бы какой-то символический лут.
 
