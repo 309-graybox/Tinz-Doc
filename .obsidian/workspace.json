@@ -44,7 +44,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Файловый менеджер"
+              "title": "Files"
             }
           },
           {
@@ -161,24 +161,24 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Меню быстрого перехода": false,
-      "graph:Граф": false,
-      "canvas:Создать новый холст": false,
-      "daily-notes:Сегодняшняя заметка": false,
-      "templates:Вставить шаблон": false,
-      "command-palette:Открыть палитру команд": false,
-      "bases:Создать новую базу": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
     }
   },
-  "active": "b086eea20896fac4",
+  "active": "8ed6dec67120c658",
   "lastOpenFiles": [
+    "Дизайн документ/4. Системы/Система управления камерой/Фичи/Movement-Aligned Camera Reorientation +.md",
     "Дизайн документ/4. Системы/Система управления камерой/Фичи/Camera-Trigger Volume +.md",
     "Дизайн документ/4. Системы/Система управления камерой/Фичи/World Space Masking +.md",
     "Дизайн документ/4. Системы/Система управления камерой/Фичи/Camera Lag +.md",
     "Дизайн документ/4. Системы/Система управления камерой/Фичи/RayTracing Dithering +.md",
     "Дизайн документ/4. Системы/Система управления камерой/Управление камерой.md",
     "Дизайн документ/4. Системы/Система передвижения +.md",
-    "Дизайн документ/4. Системы/Система управления камерой/Фичи/Movement-Aligned Camera Reorientation +.md",
     "Дизайн документ/2. Управление/inputs/Gimmick Button (input).md",
     "Дизайн документ/1. Жанр и синопсис/Синопсис.md",
     "Дизайн документ/4. Системы/Система управления камерой/Фичи",
