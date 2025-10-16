@@ -1,0 +1,6 @@
+---
+tags:
+  - camera
+  - mechanics
+  - target
+---

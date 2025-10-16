@@ -1,6 +1,7 @@
 ---
 tags:
   - input
+  - target
 aliases:
   - кнопка таргета
 ---
