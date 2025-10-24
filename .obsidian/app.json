@@ -4,5 +4,6 @@
   "strictLineBreaks": false,
   "readableLineLength": true,
   "showLineNumber": false,
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "livePreview": true
 }

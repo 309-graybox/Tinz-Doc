@@ -31,6 +31,11 @@ ___
 
 - Может вызывать артефакты на объектах с альфа-тестом.
 
+Реализация в игре Baldur's Gate 3:
+<iframe id="ytplayer" type="text/html" width="720" height="405"
+src="https://www.youtube.com/embed/?autoplay=1&enablejsapi=1&loop=1&playlist=Pq9kvoOEK5c&controls=0"
+frameborder="0" allowfullscreen></iframe>
+
 ### 2. **Full Dither Transparency (Полное исчезновение объекта)**
 
 Вместо частичного маскирования весь объект становится прозрачным с помощью **dithering-шейдера**.  
@@ -38,7 +43,7 @@ ___
 
 **Плюсы:**
 
-- Подходит для крупных объектов;
+- Подходит для небольших объектов;
 
 - Простая и быстрая реализация на стороне материалов.
 
@@ -49,6 +54,10 @@ ___
 
 - При слишком крупном паттерне dithering может выглядеть «зернисто».
 
+Реализация в игре Baldur's Gate 3:
+<iframe id="ytplayer" type="text/html" width="720" height="405"
+src="https://www.youtube.com/embed/?autoplay=1&enablejsapi=1&loop=1&playlist=Zm-AfqVqjdA&controls=0"
+frameborder="0" allowfullscreen></iframe>
 ## Использование
 ---
 

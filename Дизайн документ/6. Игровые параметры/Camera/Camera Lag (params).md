@@ -86,4 +86,4 @@ tags:
 
 # См. Также
 ---
-- [[Camera Lag +]]
+- [[Camera Lag]]

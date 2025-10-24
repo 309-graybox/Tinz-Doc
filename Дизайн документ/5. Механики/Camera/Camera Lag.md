@@ -10,6 +10,18 @@ ___
 
 Параметры для механики описаны [[Camera Lag (params)|тут]].
 
+Так выглядит Camera Lag в игре Elden Ring: Nightreign:
+<iframe id="ytplayer" type="text/html" width="720" height="405"
+src="https://www.youtube.com/embed/?autoplay=1&enablejsapi=1&loop=1&playlist=jyrCtQ3-mro&controls=0"
+frameborder="0" allowfullscreen></iframe>
+А так выглядит Camera Lag в игре если включен [[Автоповорот Камеры +]]:
+<iframe id="ytplayer" type="text/html" width="720" height="405"
+src="https://www.youtube.com/embed/?autoplay=1&enablejsapi=1&loop=1&playlist=C2DjBjtWNcQ&controls=0"
+frameborder="0" allowfullscreen></iframe>
+А вот демонстрация Camera Rotation Lag в Unreal:
+<iframe id="ytplayer" type="text/html" width="720" height="405"
+src="https://www.youtube.com/embed/?autoplay=1&enablejsapi=1&loop=1&playlist=ahPor5qXibE&controls=0"
+frameborder="0" allowfullscreen></iframe>
 # См. Также
 ___
 Пример реализации механики в Unreal Engine:

@@ -61,4 +61,4 @@ tags:
 
 ---
 
-- [[Hiding Character +]]
+- [[Hiding Character]]

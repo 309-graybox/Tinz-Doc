@@ -7,6 +7,11 @@ tags:
 ___
 Механика обеспечивает **плавное восстановление расстояния камеры до персонажа** после того, как камера сократила дистанцию из-за столкновения с объектами сцены.  
 Позволяет избежать резких скачков и дёрганий камеры, создавая комфортное и предсказуемое движение камеры в играх от третьего лица.
+
+Параметры описаны [[Smooth Return After Collision (Params)|тут]].
+
+Демо:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_hbVDKHGG8s?si=7bM-ikpW4LafuR5V&amp;clip=UgkxSTkWh541ooQeaJVljwjnudKM5WQ1wsbr&amp;controls=0&amp;autoplay=1&amp;mute=1&amp;clipt=EOVXGOGmAQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen loop=1 Volume = 0></iframe>
 ## Принцип работы
 ---
 
