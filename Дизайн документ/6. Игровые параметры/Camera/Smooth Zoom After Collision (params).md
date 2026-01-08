@@ -69,4 +69,4 @@ tags:
 
 # См. Также
 ---
-- [[Smooth Return After Collision +]]
+- [[Smooth Zoom After Collision]]

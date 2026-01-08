@@ -1,0 +1,40 @@
+---
+aliases:
+tags:
+  - camera
+  - params
+  - new
+---
+### 1. Enable Min angle Bias
+___
+**Type**: `bool`
+**Default**: `false`
+
+**Описание**:
+Ключ, отвечающий за включение и выключение механики Min Angle Bias.
+### 2. Min Angle Bias Offset
+___
+**Type:** `Float`  
+**Default:** `0`
+
+**Описание:**  
+Угол, определяющий размер диапазона от минимального вертикального угла (Pitch), в пределах которого применяется Min Angle Bias.
+### 3. Enable Max angle Bias
+___
+**Type**: `bool`
+**Default**: `false`
+
+**Описание**:
+Ключ, отвечающий за включение и выключение механики Max Angle Bias.  
+### 4. Max angle Bias Offset
+___
+**Type:** `Float`  
+**Default:** `0`
+
+**Описание:**  
+Максимальное расстояние (в юнитах), на которое камера может смещаться вперёд вдоль forward-вектора персонажа при активном Max Angle Bias.
+
+# См. Также
+---
+
+- [[Vertical Camera Bias]]
