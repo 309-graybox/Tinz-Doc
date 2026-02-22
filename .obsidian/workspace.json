@@ -4,81 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "77f78a4d83c30403",
+        "id": "3187e6814a9732d0",
         "type": "tabs",
         "children": [
           {
-            "id": "59770b5e43d7583e",
+            "id": "698808f722929172",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Дизайн документ/6. Игровые параметры/Camera/Lock on Target (params).md",
+                "file": "Дизайн документ/2. Управление/Игровая раскладка.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lock on Target (params)"
+              "title": "Игровая раскладка"
             }
           },
           {
-            "id": "ad0b40abe03fb951",
+            "id": "a6ce184d1dcb525d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Дизайн документ/5. Механики/Camera/Lock on Target.md",
+                "file": "Дизайн документ/2. Управление/Игровая раскладка.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lock on Target"
-            }
-          },
-          {
-            "id": "0993bed407249ab7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Дизайн документ/6. Игровые параметры/Camera/Lock on Target (params).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Lock on Target (params)"
-            }
-          },
-          {
-            "id": "b6ae5dea6cd57d0e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Дизайн документ/5. Механики/Camera/Vertical Camera Bias.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Vertical Camera Bias"
-            }
-          },
-          {
-            "id": "61ca96f895da4eca",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Всякое разное.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Всякое разное"
+              "title": "Игровая раскладка"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Camera Reset",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -227,54 +185,55 @@
       "bases:Create new base": false
     }
   },
-  "active": "0993bed407249ab7",
+  "active": "a6ce184d1dcb525d",
   "lastOpenFiles": [
-    "Дизайн документ/5. Механики/Camera/Lock on Target.md",
-    "Дизайн документ/6. Игровые параметры/Camera/Lock on Target (params).md",
+    "Работа с художником.md",
+    "[Switch Target (input).md",
     "Всякое разное.md",
     "Схема контроллера.canvas",
-    "Дизайн документ/5. Механики/Camera/Vertical Camera Bias.md",
-    "Дизайн документ/5. Механики/Camera/Camera Collision.md",
-    "Дизайн документ/5. Механики/Camera/Camera Lag.md",
-    "Дизайн документ/5. Механики/Camera/Зона Переопределения Синематеки.md",
-    "Дизайн документ/5. Механики/Camera/Автоповорот Камеры.md",
-    "Дизайн документ/5. Механики/Camera/World Space Masking.md",
-    "Дизайн документ/5. Механики/Camera/Smooth Zoom After Collision.md",
-    "Дизайн документ/5. Механики/Camera/Hiding Character.md",
-    "Работа с художником.md",
+    "Дизайн документ/src/scenes/camera scene/moving target.png",
     "Дизайн документ/4. Системы/Система управления камерой/Управление камерой.md",
+    "Дизайн документ/src/scenes/camera scene",
+    "Дизайн документ/src/scenes",
     "Дизайн документ/2. Управление/Игровая раскладка.md",
+    "Дизайн документ/2. Управление/inputs/Switch Target (input).md",
+    "Дизайн документ/src/controls/input_buttons/action_mapping.png",
+    "Дизайн документ/src/controls/input_buttons/psB17.tmp",
+    "Дизайн документ/src/controls/input_buttons/psA085.tmp",
+    "Дизайн документ/2. Управление/Untitled",
+    "Дизайн документ/src/scenes/camera scene/camera scene.png",
+    "Дизайн документ/src/scenes/camera scene/partial masking wall.png",
+    "Дизайн документ/src/scenes/camera scene/dithering spheres.png",
+    "Дизайн документ/src/scenes/camera scene/not moving target.png",
+    "Дизайн документ/1. Жанр и синопсис/Синопсис.md",
     "Дизайн документ/2. Управление/inputs/Camera Reset (input).md",
     "Дизайн документ/2. Управление/inputs/Attack (input).md",
+    "Дизайн документ/5. Механики/Camera/Vertical Camera Bias.md",
+    "Дизайн документ/5. Механики/Camera/Camera Collision.md",
+    "Дизайн документ/5. Механики/Camera/Восстановление Камеры.md",
+    "Дизайн документ/5. Механики/Толкание +.md",
+    "Дизайн документ/5. Механики/Сервисные Механики/Сервисные механики+.md",
+    "Дизайн документ/4. Системы/Система управления передвижением/Система передвижения +.md",
+    "Дизайн документ/4. Системы/Система управления передвижением",
+    "Дизайн документ/6. Игровые параметры/Camera/Восстановление Камеры (params).md",
+    "Дизайн документ/6. Игровые параметры/Camera/Camera Collision (params).md",
+    "Дизайн документ/6. Игровые параметры/Camera/Base Camera Params.md",
+    "Дизайн документ/6. Игровые параметры/Camera/Автоповорот Камеры (params).md",
+    "Дизайн документ/7. Дизайн/Персонажи/Сенсей.md",
+    "Дизайн документ/5. Механики/Camera/Автоповорот Камеры.md",
     "Дизайн документ/2. Управление/inputs/Camera Controll (input).md",
-    "Дизайн документ/2. Управление/inputs/Change Tool Mode (input).md",
-    "Дизайн документ/2. Управление/inputs/Crouch (input).md",
-    "Дизайн документ/2. Управление/inputs/Dodge (input).md",
-    "Дизайн документ/2. Управление/inputs/Gimmick Button (input).md",
-    "Дизайн документ/2. Управление/inputs/Interact (input).md",
-    "Дизайн документ/2. Управление/inputs/Item Shortcut Mode (input).md",
-    "Дизайн документ/2. Управление/inputs/Jump (Input).md",
+    "Дизайн документ/2. Управление/inputs/Use Tool (input).md",
     "Дизайн документ/2. Управление/inputs/Toss (input).md",
+    "Дизайн документ/2. Управление/inputs/Tool Shortcut Mode (input).md",
+    "Дизайн документ/6. Игровые параметры/Camera/Vertical Camera Bias (params).md",
     "Дизайн документ/5. Механики/Camera/Картинки/Camera_bias.png",
     "Дизайн документ/5. Механики/Camera/Картинки",
-    "Дизайн документ/4. Системы/Система управления камерой/Картинки сцены/Pasted image 20251130133040.png",
-    "Дизайн документ/4. Системы/Система управления камерой/Картинки сцены/partial masking wall.png",
-    "Дизайн документ/4. Системы/Система управления камерой/Картинки сцены/dithering spheres.png",
-    "Дизайн документ/4. Системы/Система управления камерой/Картинки сцены/not moving target.png",
-    "Дизайн документ/4. Системы/Система управления камерой/Картинки сцены/moving target.png",
     "Дизайн документ/4. Системы/Система управления камерой/Картинки сцены",
     "Дизайн документ/5. Механики/Механики для управления камерой/Untitled",
     "Дизайн документ/5. Механики/Camera",
-    "Дизайн документ/6. Игровые параметры/Camera",
-    "Дизайн документ/6. Игровые параметры",
-    "Дизайн документ/4. Системы/Система управления камерой/Фичи",
-    "Дизайн документ/4. Системы/Система управления камерой",
-    "Дизайн документ/5. Механики/Сервисные Механики",
-    "Дизайн документ/5. Механики/Магические Инструменты",
     "Дизайн документ/src/controls/input_buttons/y-button(32).png",
     "Дизайн документ/src/controls/input_buttons/y-button.png",
     "Дизайн документ/src/controls/input_buttons/x-button(32).png",
-    "Дизайн документ/src/controls/input_buttons/x-button.png",
     "Дизайн документ/Жанр и синопсис/Сценарный гайдлайн.canvas"
   ]
 }
