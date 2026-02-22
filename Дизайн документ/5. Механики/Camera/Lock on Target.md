@@ -3,6 +3,7 @@ tags:
   - camera
   - mechanics
   - target
+  - new
 aliases:
   - таргет
 ---
@@ -72,7 +73,7 @@ ___
 Так он работает в движении: <iframe id="ytplayer" type="text/html" width="720" height="405" src="https://www.youtube.com/embed/?autoplay=1&enablejsapi=1&loop=1&playlist=o5fnY8zjg_0&controls=0" frameborder="0" allowfullscreen></iframe> <iframe id="ytplayer" type="text/html" width="720" height="405" src="https://www.youtube.com/embed/?autoplay=1&enablejsapi=1&loop=1&playlist=DQ0Q6D2_kN8&controls=0" frameborder="0" allowfullscreen></iframe>
 **Поведение при отсутствии или появлении цели:**
 
-- Если активный захват цели теряется (цель погибает, выходит из радиуса, становится недоступной):
+- Если активный захват цели теряется: цель погибает, становится недоступной или расстояние между персонажем и целью становится слишком большим:
 
     - если в пределах радиуса обнаружения присутствуют другие допустимые цели, система автоматически выбирает **наиболее подходящую следующую цель**;
 
