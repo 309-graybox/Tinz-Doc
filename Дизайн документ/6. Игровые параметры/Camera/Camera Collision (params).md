@@ -2,7 +2,6 @@
 tags:
   - camera
   - params
-  - new
 ---
 ### 1. Enable Camera Collision
 ___

@@ -69,5 +69,6 @@ frameborder="0" allowfullscreen></iframe>
 # См. Также
 ---
 - [Статья на Хабре](https://habr.com/ru/articles/829804/) — пример реализации `Partial Masking` на Unreal Engine.
+- [Видос с твитера](https://twitter.com/i/status/1939781975625093123) - Еще один пример на Unreal
 
 - [[World Space masking (params)]]

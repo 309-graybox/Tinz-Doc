@@ -28,7 +28,7 @@ tags:
 ### 3. **Camera Offset**
 ---
 
-**Type:** `Vector2` (X/Y screen offset)  
+**Type:** `Float` (Units)  
 **Default:** `(0.2, -0.3)`
 
 **Описание:**  

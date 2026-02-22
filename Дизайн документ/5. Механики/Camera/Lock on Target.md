@@ -3,7 +3,6 @@ tags:
   - camera
   - mechanics
   - target
-  - new
 aliases:
   - таргет
 ---
