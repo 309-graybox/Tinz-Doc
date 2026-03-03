@@ -20,19 +20,19 @@ tags:
 **Value:**  `5.0f`
 **Описание:** Cкорость персонажа в режиме бега, без влияния модификаторов.
 
-### 4. Acceleration
+### 3. Acceleration
 
 **Type:** `float`
 **Value:** `15.0f`
 **Описание:** Набор скорости при беге и ходьбе.
 
-### 5. Damping
+### 4. Damping
 
 **Type:** `float`
 **Value:** `23.0f`
 **Описание:** Потеря скорости при остановке бега или ходьбы.
 
-### 6. Turn Speed
+### 5. Turn Speed
 
 **Type:** `float` 
 **Value**:  `600.0f`
@@ -40,37 +40,37 @@ tags:
 
 # Параметры спринта
 ---
-### 3. Sprint Speed
+### 1. Sprint Speed
 
 **Type:** `float`  
 **Value:** `8.0f`
 **Описание:** Максимальная скорость персонажа в режиме спринта.
 
-### 8. Sprint Acceleration
+### 2. Sprint Acceleration
 
 **Type:** `float`
 **Value:** `12.0f`
 **Описание:** Набор скорости в режиме спринта.
 
-### 9. Sprint Damping
+### 3. Sprint Damping
 
 **Type:** `float`
 **Value:** `30.0f`
 **Описание:** Потеря скорости при выходе из спринта.
 
-### 10. Sprint Turn Speed
+### 4. Sprint Turn Speed
 
 **Type:** `float`
 **Value:** `400.0f`
 **Описание:** Скорость изменения направления движения во время спринта.
 
-### 11. Sharp Turn Angle Threshold
+### 5. Sharp Turn Angle Threshold
 
 **Type:** `float` (degrees)  
 **Value:** `120.0f`
 **Описание:** Минимальный угол изменения направления, при превышении которого активируется резкий разворот в спринте.
 
-### 12. Sharp Turn Braking Multiplier
+### 6. Sharp Turn Braking Multiplier
 
 **Type:** `float` 
 **Value:** `2.5f`
@@ -81,14 +81,18 @@ tags:
 
 # Обработка препятствий
 ---
-### 15. Step Height
+### 1. Step Height
 
 **Type:** `float`
 **Value:** `0.3f`
 **Описание:** Максимальная высота препятствия, на которое персонаж может автоматически подняться.
 
-### 16. Slope Limit
+### 2. Slope Limit
 
 **Type:** `float` (degrees) 
 **Value:** `43.0f`
 **Описание:** Максимальный угол наклона поверхности, по которой персонаж может двигаться.
+
+# См. Также
+___
+[[Бег и Ходьба]]
