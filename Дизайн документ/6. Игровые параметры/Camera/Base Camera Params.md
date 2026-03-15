@@ -2,7 +2,6 @@
 tags:
   - camera
   - params
-  - new
 ---
 ### 1. Target Node
 ___

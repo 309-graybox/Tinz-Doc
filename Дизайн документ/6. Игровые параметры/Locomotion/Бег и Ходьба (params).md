@@ -3,9 +3,7 @@ tags:
   - locomotion
   - params
   - character
-  - new
 ---
-
 # Базовые параметры
 ---
 ### 1. Walk Speed

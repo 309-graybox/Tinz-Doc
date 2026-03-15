@@ -3,7 +3,6 @@ aliases:
 tags:
   - camera
   - params
-  - new
 ---
 ### 1. Enable Min angle Bias
 ___
